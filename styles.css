@@ -1,3 +1,6 @@
+body {
+    background-color: beige;
+}
 .main {
     background-color: crimson;
     text-align: center;
@@ -6,15 +9,11 @@
     margin-right: auto;
 }
 
-.main p {
-    margin-bottom: auto;
-}
-
 .logo {
-    background-color: crimson;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
 }
 
 footer {
